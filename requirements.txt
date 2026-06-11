@@ -1,0 +1,1 @@
+  j o b l i b = = 1 . 5 . 3   m a t p l o t l i b = = 3 . 1 0 . 9    n u m p y = = 2 . 4 . 4   p a n d a s = = 3 . 0 . 2   s c i k i t - l e a r n = = 1 . 8 . 0   s c i p y = = 1 . 1 7 . 1   
