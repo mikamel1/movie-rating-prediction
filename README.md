@@ -9,10 +9,19 @@ Fields that are only available after release, such as `numVotes` and `BoxOffice`
 
 ## Files in the Repository
 
-* `final_assignment_part2.ipynb.ipynb` – the main Jupyter Notebook containing the full analysis, feature engineering, model training, evaluation, error analysis, and fairness analysis.
-* `model.pkl` – the final trained model saved using `joblib`.
-* `requirements.txt` – list of required Python libraries and versions.
-* `README.md` – instructions for running the project.
+- `final_assignment_part2.ipynb.ipynb` – the main Jupyter Notebook containing the full analysis, feature engineering, model training, evaluation, error analysis, and fairness analysis.
+- `model.pkl` – the final trained model saved using `joblib`.
+- `requirements.txt` – list of required Python libraries and versions.
+- `report.pdf` – final report summarizing the project, results, error analysis, fairness analysis, conclusions, and AI usage log.
+- `README.md` – instructions for running the project.
+  
+## Final Report
+
+The final report is included in the repository as:
+
+`report.pdf`
+
+The report includes a summary of the processed dataset, engineered features, `prepare_data(df)`, model comparison using `10-fold cross-validation`, feature importance, `Error Analysis`, `Fairness Analysis`, data leakage prevention, conclusions, limitations, and AI usage documentation.
 
 ## Requirements
 
